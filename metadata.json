@@ -1,0 +1,6 @@
+{
+  "name": "Dilawar Mobile Fix Point",
+  "description": "Professional mobile phone repair center in Labha, Balu Tola Chowk, Babhni, Pranpur, Katihar, Bihar (854116). Screen replacement, battery renewal, micro-soldering, and diagnostics. Helpline: +91 9835257170.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

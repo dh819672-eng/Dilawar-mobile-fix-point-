@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Googlebot specific directives
+User-agent: Googlebot
+Allow: /
+
+# Sitemap URL
+Sitemap: https://ais-pre-ygwv4wjhpyaegp7mpit6sw-939250164016.asia-southeast1.run.app/sitemap.xml
